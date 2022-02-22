@@ -1,4 +1,4 @@
-# Runtime_Detect_ExeErrors_Robot_Assisted_Surgery
+# Runtime  Detection  of  Executional  Errors  in  Robot-Assisted  Surgery
 
 This is the code of Runtime  Detection  of  Executional  Errors  in  Robot-Assisted  Surgery\
 Presented at 2022 International Conference on Robotics and Automation (ICRA 2022) \
