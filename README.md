@@ -11,7 +11,7 @@ A video describing this work is available [here](https://www.youtube.com/watch?v
 conda install --file requirements.txt
 
 # Dataset
-The error labels for the Suring task from the [JIGSAWS](https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws_release) dataset can be found [here](https://github.com/UVA-DSA/ExecProc_Error_Analysis/tree/main/Error_Labels/Consensus_error_labels_suturing). We preprocessed the data with downsampling and normalization. The preprocessed data can be found in this repo.  
+The error labels for the Suring/Needle Passing task from the [JIGSAWS](https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws_release) dataset can be found [here](https://github.com/UVA-DSA/ExecProc_Error_Analysis/tree/main/Error_Labels). We preprocessed the data with downsampling and normalization. The preprocessed data can be found [here](https://drive.google.com/file/d/1VIVTCpe8krOjD7fGgOBaGLE1vwYZiZo3/view?usp=sharing) and [here](https://drive.google.com/file/d/1GmMRjixartghA40D-CeKOoFMctWZyCDY/view?usp=sharing).  
 
 # How to run
 We have 4 main scripts. The 'type' variable can be changed to 'double' or 'single' for performance evaluation on the Siamese network or the LSTM,CNN.  
