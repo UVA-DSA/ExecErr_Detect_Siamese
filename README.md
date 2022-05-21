@@ -4,6 +4,8 @@ This is the code of Runtime  Detection  of  Executional  Errors  in  Robot-Assis
 Presented at 2022 International Conference on Robotics and Automation (ICRA 2022) \
 The repo includes the models (LSTM, CNN, Siamese-LSTM and Siamses-CNN) and the experimental setups(GSTS,GST*,G\*TS,G\*T*). 
 
+A video describing this work is available [here](https://www.youtube.com/watch?v=70h_hcaIXpc)
+
 
 # Install
 conda install --file requirements.txt
